@@ -5,7 +5,7 @@ Atualmente, atuo na **XP Inc.** como Engenheiro de Infraestrutura onde auxilio n
 ## 💼 Experiência Atual
 * **XP Inc. | Engenheiro de Infraestrutura**:. 
 * Trabalho diariamente com ambientes **Power BI**, **Databricks**
-* 
+
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** Python (v3.13.7), SQL, Javascript.
 * **Ciência de Dados:** Pandas, NumPy, Seaborn e Matplotlib.
