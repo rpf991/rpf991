@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Olá, eu sou o Rodrigo! 👋
+# Olá, eu sou o Rodrigo Franco! 👋
 
 Atualmente, atuo na **XP Inc.** como Engenheiro de Infraestrutura onde auxilio na sutentação de paineis do PowerBI, identificando se houve alguma falha nos notebooks associados as tabelas. Demonstrei interesse em Ciência de Dados, gosto de aprender 
 
