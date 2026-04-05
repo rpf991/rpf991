@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Rodrigo! 👋
 
-Atualmente, atuo na **XP Inc.**, como Engenheiro de Infraestrutura onde auxilio na sutentação de paineis do PowerBI, identificando se houve alguma falha nos notebooks associados as tabelas. Demonstrei interesse em Ciência de Dados, gosto de aprender 
+Atualmente, atuo na **XP Inc.** como Engenheiro de Infraestrutura onde auxilio na sutentação de paineis do PowerBI, identificando se houve alguma falha nos notebooks associados as tabelas. Demonstrei interesse em Ciência de Dados, gosto de aprender 
 
 ## 💼 Experiência Atual
 * **XP Inc. | Engenheiro de Infraestrutura**:. 
