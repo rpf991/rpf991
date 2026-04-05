@@ -4,10 +4,10 @@ Sou formado em **Ciência da Computação** e sou estudante de **Ciência de Dad
 
 ## 💼 Experiência Atual
 Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre o processamento (Databricks) e a visualização (Power BI) seja sólida.
-* Trabalho diariamente com ambientes **Power BI**, **Databricks**
-
-* **Monitoramento e Sustentação:** Identificação e resolução proativa de falhas em notebooks e pipelines de dados.
-* **Integridade de Dados:** Garantia de que as tabelas que alimentam os painéis de decisão estejam sempre precisas e atualizadas.
+  * Trabalho diariamente com ambientes **Power BI**, **Databricks**
+  
+  * **Monitoramento e Sustentação:** Identificação e resolução proativa de falhas em notebooks e pipelines de dados.
+  * **Integridade de Dados:** Garantia de que as tabelas que alimentam os painéis de decisão estejam sempre precisas e atualizadas.
 
 
 ## 🛠️ Tecnologias e Ferramentas
