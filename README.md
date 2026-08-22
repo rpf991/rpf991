@@ -24,7 +24,7 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
     Linkedin
   </a>
 
- <a href="malito:rpf9743@gmail.com">
+ <a href="mailto:rpf9743@gmail.com">
     E-Mail
   </a>
 
