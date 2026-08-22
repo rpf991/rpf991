@@ -21,13 +21,11 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
 <div align="center">
  
  <a href="https://www.linkedin.com/in/rodrigo-franco-8389382a4" target="_blank">
-    <img>
-    </img>
+   Linkedin
   </a>
 
  <a href="mailto:rpf9743@gmail.com">
-    <img>
-    </img>
+  E-Mail
   </a>
 
 </div>
