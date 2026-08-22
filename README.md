@@ -11,6 +11,13 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
 
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Python (v3.13.7), SQL, Javascript.
+* **Linguagens:** Python (v3.13.7), SQL, Javascript, Java.
 * **Ciência de Dados:** Pandas, NumPy, Seaborn e Matplotlib.
-* **Ferramentas:** Git, Jupyter Notebook, VS Code (ferramenta principal de desenvolvimento).
+* **Ferramentas:** Git, Jupyter Notebook, Docker, VS Code (ferramenta principal de desenvolvimento).
+* **Bases de Dados**: PostGreeSql, MySql Workbench, MongoDB
+
+## 🤝 Contacte comigo
+
+
+
+
