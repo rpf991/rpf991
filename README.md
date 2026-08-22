@@ -18,7 +18,7 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
 
 ## 🤝 Contacte comigo
 
-<div align="center" dir="auto">
+<div align="center">
  
  <a href="https://www.linkedin.com/in/rodrigo-franco-8389382a4" target="_blank">
     <img>
