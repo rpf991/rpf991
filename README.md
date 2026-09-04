@@ -16,6 +16,15 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
 * **Ferramentas:** Git, Jupyter Notebook, Docker, VS Code (ferramenta principal de desenvolvimento).
 * **Bases de Dados**: PostGreeSql, MySql Workbench, MongoDB
 
+
+## Projetos em Grupo
+
+https://github.com/MBA-Data-Science-Unifor/Vitalia.git
+
+
+
+
+
 ## 🤝 Contacte comigo
 
 <div align="center">
