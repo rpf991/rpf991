@@ -17,11 +17,12 @@ Na XP, atuo como **Engenheiro de Infraestrutura**, garantindo que a ponte entre 
 * **Bases de Dados**: PostGreeSql, MySql Workbench, MongoDB
 
 
+
 ## Projetos em Grupo
 
 https://github.com/MBA-Data-Science-Unifor/Vitalia.git
 
-
+https://github.com/LEXANWARE/WaitOrPlay.git
 
 
 
